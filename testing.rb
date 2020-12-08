@@ -1,4 +1,4 @@
-puts "hi"
+puts "hello"
 
 
 puts "goodbye"
